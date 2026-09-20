@@ -83,7 +83,7 @@ class PlutoniumSpellTranslator {
     }
   }
 }
-
+window.PlutoniumSpellTranslator = PlutoniumSpellTranslator;
 // Hooks do Foundry VTT
 Hooks.once("init", async () => {
   await PlutoniumSpellTranslator.init();
