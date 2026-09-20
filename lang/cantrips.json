@@ -1,0 +1,134 @@
+{
+  "Acid Splash|XPHB": {
+    "name": "Bolha Ácida",
+    "description": "<p>Você cria uma bolha ácida em um ponto no alcance da magia, onde ela explode em uma @variantrule[Sphere [Area of Effect]|XPHB|Sphere] de 5 ft de raio. Cada criatura nessa @variantrule[Sphere [Area of Effect]|XPHB|Sphere] deve ser bem-sucedida em uma salvaguarda de Destreza ou sofre  [[/damage 1d6 type=acid]]  pontos de dano Ácido. Aprimoramento de Truque. O dano aumenta em  [[/damage 1d6 type=acid]]  quando você atinge os níveis 5 ( [[/damage 2d6 type=acid]] ), 11 ( [[/damage 3d6 type=acid]] ) e 17 ( [[/damage 4d6 type=acid]] ).</p>"
+  },
+  "Blade Ward|XPHB": {
+    "name": "Proteção Contra Lâminas",
+    "description": "<p>Sempre que uma criatura realizar uma jogada de ataque contra você antes que a magia termine, o atacante subtrai [[/r 1d4]] da jogada de ataque.</p>"
+  },
+  "Chill Touch|XPHB": {
+    "name": "Toque Necrótico",
+    "description": "Canalizando o frio da sepultura, realize um ataque mágico corpo a corpo contra um alvo no alcance da magia. Em caso de acerto, o alvo sofre [[/damage 1d10 type=necrotic]] pontos de dano Necrótico e não pode recuperar @variantrule[Hit Points|XPHB] até o final do seu próximo turno.Aprimoramento de Truque. O dano aumenta em [[/damage 1d10]]  quando você atinge os níveis 5 ([[/damage 2d10]] ), 11 ([[/damage 3d10]] ) e 17 ([[/damage 4d10]] )."
+  },
+  "Dancing Lights|XPHB": {
+    "name": "Luzes Dançantes",
+    "description": "<p>Você cria até quatro luzes do tamanho de tochas no alcance da magia, fazendo com que elas pareçam tochas,lanternas ou esferas brilhantes que pairam pela duração da magia. Como alternativa, você combina as quatro luzes em uma forma Média, brilhante, a qual é vagamente humanoide. Seja qual for a forma que você escolher,cada luz emite Meia-luz em um raio de 10ft.Como uma Ação Bônus, você pode mover as luzes até 60ft para um espaço no alcance da magia.Uma luz deve estar a até 20ft de outra luz criada por esta magia, e uma luz desaparece se ultrapassar o alcance da magia.</p>"
+  },
+  "Druidcraft|XPHB": {
+    "name": "Arte Druídica",
+    "description": "<p>Sussurrando para os espíritos da natureza, você criaum dos seguintes efeitos no alcance da magia.Brincar com Fogo. Você acende ou apaga uma vela,uma tocha ou uma fogueira.Efeito Sensorial. Você cria um efeito sensorial inofensivo, como folhas caindo, fadas dançantes espectrais,uma brisa suave, o som de um animal ou o leve odor degambá. O efeito deve caber em um Cubo de 5ft de lados.</p>"
+  },
+  "Eldritch Blast|XPHB": {
+    "name": "Raio Místico",
+    "description": "<p>Você emite um feixe de energia crepitante. Realize um ataque mágico à distância contra uma criatura ou objeto no alcance da magia. Em caso de acerto, o alvo sofre [[/damage 1d10 type=force]] pontos de dano Energético. Aprimoramento de Truque. A magia cria dois feixes no nível 5, três feixes no nível 11 e quatro feixes no nível 17. Você pode direcionar os feixes para o mesmo alvo ou para alvos diferentes. Realize uma jogada de ataque separada para cada feixe</p>"
+  },
+  "Elementalism|XPHB": {
+    "name": "Elementalismo",
+    "description": "<p>Você exerce controle sobre os elementos, criando um dos seguintes efeitos no alcance da magia. Convocar Água. Você cria um jato de névoa fria que umedece levemente criaturas e objetos em um Cubo de 1,5 metro de lado. Como alternativa, você cria 1 xícara de água limpa em um recipiente aberto ou em uma superfície, e a água evapora em 1 minuto. Convocar Brisa. Você cria uma brisa forte o suficiente para ondular um tecido, mexer poeira, farfalhar folhas e fechar portas e persianas abertas, tudo em um Cubo de 1,5 metro de lado. Portas e persianas que estiverem sendo mantidas abertas por alguém ou alguma força não são afetadas. Convocar Fogo. Você cria uma fina nuvem de brasas inofensivas e fumaça colorida e perfumada em um Cubo de 1,5 metro de lados. Você escolhe a cor e o perfume, e as brasas podem acender velas, tochas ou lâmpadas nessa área. O cheiro da fumaça permanece por 1 minuto. Convocar Terra. Você cria uma fina camada de poeira ou areia que cobre superfícies em uma área quadrada de 1,5 metro de lado, ou faz com que uma única palavra apareça em sua caligrafia em um pedaço de terra ou areia. Esculpir Elemento. Você faz com que terra, areia, fogo, fumaça, névoa ou água que caiba em um Cubo de 30 centímetros de lado assuma uma forma rudimentar (como a de uma criatura) por 1 hora.</p>"
+  },
+  "Fire Bolt|XPHB": {
+    "name": "Raio de Fogo",
+    "description": "<p>Você arremessa uma partícula de fogo em uma criatura ou objeto no alcance da magia. Realize um ataque mágico à distância contra o alvo. Em caso de acerto, o alvo sofre [[/damage 1d10 type=fire]] pontos de dano Ígneo. Um objeto inflamável atingido por esta magia entra em combustão se não estiver sendo usado ou carregado. Aprimoramento de Truque. O dano aumenta em [[/damage 1d10]] quando você atinge os níveis 5 ([[/damage 2d10]]), 11 ([[/damage 3d10]]) e 17 ([[/damage 4d10]]).</p>"
+  },
+  "Friends|XPHB": {
+    "name": "Amigos",
+    "description": "<p>Você emana magicamente um sentimento de amizade em relação a uma criatura à sua vista e no alcance da magia. O alvo deve ser bem-sucedido em uma salvaguarda de Sabedoria ou tem a condição Enfeitiçado pela duração da magia. O alvo é bem-sucedido automaticamente se não for um Humanoide, se você estiver lutando contra ele ou se tiver conjurado esta magia nele nas últimas 24 horas. A magia encerra se o alvo sofrer dano ou se você realizar uma jogada de ataque, causar dano ou forçar alguém a realizar uma salvaguarda. Quando a magia termina, o alvo sabe que foi Enfeitiçado por você.</p>"
+  },
+  "Guidance|XPHB": {
+    "name": "Orientação",
+    "description": "<p>Você toca uma criatura voluntária e escolhe uma perícia. Até que a magia termine, a criatura adiciona [[/r 1d4]] a qualquer teste de atributo usando a perícia escolhida.</p>"
+  },
+  "Light|XPHB": {
+    "name": "Luz",
+    "description": "<p>Você toca em um objeto Grande ou menor que não está sendo usado ou carregado por outra pessoa. Até que a magia termine, o objeto emite Luz Plena em um raio de 6 metros e Meia-luz por mais 6 metros. A luz pode ter a cor que você desejar. Cobrir o objeto com algo opaco bloqueia a luz. A magia se encerra se você a conjurar novamente.</p>"
+  },
+  "Mage Hand|XPHB": {
+    "name": "Mãos Mágicas",
+    "description": "<p>Uma mão espectral flutuante aparece em um ponto que você escolher no alcance da magia. A mão permanece pela duração. A mão desaparece se estiver a mais de 9 metros de você ou se você conjurar esta magia novamente. Ao conjurar a magia, você pode usar a mão para manipular um objeto, abrir uma porta ou um recipiente destrancado, guardar ou recolher itens de recipientes abertos, ou despejar o conteúdo de um frasco. Como uma ação Usar Magia em seus próximos turnos, você pode controlar a mão novamente. Como parte dessa ação, você pode mover a mão até 9 metros. A mão não pode atacar, ativar itens mágicos ou carregar mais de 5 quilos.</p>"
+  },
+  "Mending|XPHB": {
+    "name": "Reparar",
+    "description": "<p>Essa magia repara uma única ruptura ou rasgo em um objeto que você tocar, como um elo de corrente quebrado, partes de uma chave partida, uma capa rasgada ou um odre furado. Se a ruptura ou rasgo não ultrapassar 30 centímetros em qualquer dimensão, ela é reparada sem deixar vestígios do dano anterior. Essa magia pode reparar fisicamente um item mágico, mas não pode restaurar a magia de tal objeto.</p>"
+  },
+  "Message|XPHB": {
+    "name": "Mensagem",
+    "description": "<p>Você aponta para uma criatura no alcance da magia e sussurra uma mensagem. Somente o alvo ouve a mensagem e pode responder em um sussurro que apenas você consegue ouvir.Você pode conjurar essa magia através de objetos sólidos se estiver familiarizado com o alvo e souber que ele está além da barreira. Silêncio mágico, 30 centímetros de pedra, metal ou madeira, ou uma fina folha de chumbo bloqueiam a magia.</p>"
+  },
+  "Mind Sliver|XPHB": {
+    "name": "Talho Mental",
+    "description": "<p>Você tenta fragmentar temporariamente a mente de uma criatura à sua vista e no alcance da magia. O alvo deve ser bem-sucedido em uma salvaguarda de Inteligência ou sofre [[/damage 1d6 type=psychic]] pontos de dano Psíquico e subtrai [[/r 1d4]] da próxima salvaguarda que realizar antes do final do seu próximo turno. Aprimoramento de Truque. O dano aumenta em [[/damage 1d6]] quando você atinge os níveis 5 ([[/damage 2d6]]), 11 ([[/damage 3d6]]) e 17 ([[/damage 4d6]]).</p>"
+  },
+  "Minor Illusion|XPHB": {
+    "name": "Ilusão Menor",
+    "description": "<p>Você cria um som ou uma imagem de um objeto no alcance da magia que permanece pela duração da magia. Veja as descrições abaixo para os efeitos de cada um. A ilusão encerra se você conjurar essa magia novamente. Se uma criatura executar uma ação Analisar para examinar o som ou a imagem, ela pode determinar que é uma ilusão com um teste bem-sucedido de Inteligência (Investigação) contra a CD para evitar sua magia. Se a criatura perceber a ilusão pelo que ela realmente é, a ilusão se torna tênue para essa criatura. Som. Se você criar um som, o volume pode variar de um sussurro a um grito. Pode ser sua voz, a voz de outra pessoa, o rugido de um leão, o bater de tambores ou qualquer outro som que você escolher. O som continua ininterrupto pela duração da magia, ou você pode criar sons distintos em diferentes momentos antes que a magia termine. Imagem. Se você criar a imagem de um objeto — como uma cadeira, pegadas enlameadas ou um pequeno baú — ela não pode ter dimensões superiores a um cubo de 1,5 metro de lados. A imagem não pode gerar som, luz, cheiro ou qualquer outro efeito sensorial. A interação física com a imagem demonstra que se trata de uma ilusão, pois os objetos podem atravessá-la.</p>"
+  },
+  "Poison Spray|XPHB": {
+    "name": "Rajada de Veneno",
+    "description": "<p>Você projeta uma névoa tóxica em uma criatura no alcance da magia. Realize um ataque mágico à distância contra o alvo. Em caso de acerto, o alvo sofre [[/damage 1d12 type=poison]] pontos de dano Venenoso. Aprimoramento de Truque. O dano aumenta em [[/damage 1d12]] quando você atinge os níveis 5 ([[/damage 2d12]]), 11 ([[/damage 3d12]]) e 17 ([[/damage 4d12]]).</p>"
+  },
+  "Prestidigitation|XPHB": {
+    "name": "Prestidigitação Arcana",
+    "description": "<p>Você cria um efeito mágico no alcance da magia. Escolha o efeito entre as opções abaixo. Se conjurar esta magia várias vezes, você pode ter até três de seus efeitos não instantâneos ativos ao mesmo tempo. Brincar com Fogo. Você instantaneamente acende ou apaga uma vela, uma tocha ou uma pequena fogueira. Criação Menor. Você cria uma bugiganga não mágica, sem valor monetário e incapaz de causar dano, ou uma imagem ilusória, sendo que ambas devem caber na sua mão. Ela dura até o final do seu próximo turno. Efeito Sensorial. Você cria um efeito sensorial instantâneo e inofensivo, como uma chuva de faíscas, um sopro de vento, notas musicais suaves ou um odor estranho. Limpar ou Sujar. Você limpa ou suja instantaneamente um objeto com menos de 30 centímetros cúbicos. Marca Mágica. Você faz aparecer uma cor, uma pequena marca ou um símbolo em um objeto ou superfície por 1 hora Sensação Ideal. Você esfria, aquece ou dá sabor a um material não vivo com menos de 30 centímetros cúbicos por 1 hora.</p>"
+  },
+  "Produce Flame|XPHB": {
+    "name": "Criar Chama",
+    "description": "<p>Uma chama bruxuleante surge em sua mão e permanece lá pela duração da magia. Enquanto estiver lá, a chama não emite calor, não queima nada, e emite Luz Plena em um raio de 6 metros e Meia-luz por mais 6 metros. A magia se encerra se você a conjurar novamente. Até que a magia termine, você pode executar uma ação Usar Magia para arremessar a chama em uma criatura ou objeto a até 18 metros de você. Realize um ataque mágico à distância. Em caso de acerto, o alvo sofre [[/damage 1d8 type=fire]] pontos de dano Ígneo. Aprimoramento de Truque.O dano aumenta em [[/damage 1d8]]  quando você atinge os níveis 5 ([[/damage 2d8]] ), 11 ([[/damage 3d8]] ) e 17 ([[/damage 4d8]] ).</p>"
+  },
+  "Ray of Frost|XPHB": {
+    "name": "Raio de Gelo",
+    "description": "<p>Um feixe congelante de luz azul-esbranquiçada parte em direção a uma criatura no alcance da magia. Realize um ataque mágico à distância contra o alvo. Se acertar, a criatura sofre [[/damage 1d8 type=cold]] pontos de dano Gélido e seu Deslocamento é reduzido em 3 metros até o início do seu próximo turno. Aprimoramento de Truque. O dano aumenta em [[/damage 1d8]]  quando você atinge os níveis 5 ([[/damage 2d8]] ), 11 ([[/damage 3d8]] ) e 17 ([[/damage 4d8]] ).</p>"
+  },
+  "Resistance|XPHB": {
+    "name": "Resistência",
+    "description": "<p>Você toca uma criatura voluntária e escolhe um tipo de dano: Ácido, Contundente, Cortante, Elétrico, Gélido, Ígneo, Necrótico, Perfurante, Radiante, Trovejante ou Venenoso. Quando a criatura sofre dano do tipo escolhido antes que a magia termine, a criatura reduz o dano total sofrido em 1d4 pontos. Uma criatura pode se beneficiar desta magia apenas uma vez por turno</p>"
+  },
+  "Shillelagh|XPHB": {
+    "name": "Bordão Místico",
+    "description": "<p>Um Cajado ou Clava que você está segurando é imbuído com o poder da natureza. Pela duração da magia, você pode usar seu atributo de conjuração em vez de Força para as jogadas de ataque e dano de ataques corpo a corpo com essa arma, e o dado de dano da arma se torna um d8. Se o ataque causar dano, ele pode ser de dano Energético ou do tipo de dano normal da arma (à sua escolha). A magia encerra se você a conjurar novamente ou se soltar a arma. Aprimoramento de Truque. O dado de dano muda quando você atinge os níveis 5 ([[/damage 1d10]] ), 11 ([[/damage 1d12]] ) e 17 ([[/damage 2d6]] )</p>"
+  },
+  "Shocking Grasp|XPHB": {
+    "name": "Toque Chocante",
+    "description": "<p>Raios saltam de você em direção a uma criatura que você tenta tocar. Realize uma jogada de ataque mágico corpo a corpo contra o alvo. Em caso de acerto, o alvo sofre [[/damage 1d8 type=lightning]] pontos de dano Elétrico e não pode realizar Ataques de Oportunidade até o início do próximo turno dele. Aprimoramento de Truque. O dano aumenta em [[/damage 1d8]]  quando você atinge os níveis 5 ([[/damage 2d8]] ), 11 ([[/damage 3d8]] ) e 17 ([[/damage 4d8]] )</p>"
+  },
+  "Sorcerous Burst|XPHB": {
+    "name": "Explosão Elemental",
+    "description": "<p>Você dispara energia arcana contra uma criatura ou objeto no alcance da magia. Realize uma jogada de ataque à distância contra o alvo. Em caso de acerto, o alvo sofre [[/damage 1d8]] pontos de dano de um tipo à sua escolha: Ácido, Elétrico, Gélido, Ígneo, Psíquico, Trovejante ou Venenoso. Se você tirar um 8 no d8 para esta magia, pode jogar outro d8 e adicionar ao dano. Ao conjurar essa magia, o número máximo de d8 adicionais que você pode somar ao dano da magia é igual ao seu modificador de atributo de conjuração. Aprimoramento de Truque. O dano aumenta em [[/damage 1d8]]  quando você atinge os níveis 5 ([[/damage 2d8]] ), 11 ([[/damage 3d8]] ) e 17 ([[/damage 4d8]] ).</p>"
+  },
+  "Spare the Dying|XPHB": {
+    "name": "Acudir os Moribundos",
+    "description": "<p>Escolha uma criatura no alcance da magia que tenha 0 Pontos de Vida e não esteja morta. A criatura fica Estável. Aprimoramento de Truque. O alcance da magia dobra quando você atinge os níveis 5 (9 metros), 11 (18 metros) e 17 (36 metros).</p>"
+  },
+  "Starry Wisp|XPHB": {
+    "name": "Fagulha Estelar",
+    "description": "<p>Você lança uma faísca de luz em uma criatura ou objeto no alcance da magia. Realize um ataque mágico à distância contra o alvo. Em caso de acerto, o alvo sofre [[/damage 1d8 type=radiant]] pontos de dano Radiante e, até o final do seu próximo turno, emite Meia-luz em um raio de 10ft e não pode se beneficiar da condição Invisível. Aprimoramento de Truque. O dano aumenta em [[/damage 1d8]]  quando você atinge os níveis 5 ([[/damage 2d8]] ), 11 ([[/damage 3d8]] ) e 17 ([[/damage 4d8]] )</p>"
+  },
+  "Thaumaturgy|XPHB": {
+    "name": "Taumaturgia",
+    "description": "<p>Você conjura uma pequena maravilha mágica no alcance da magia, criando um dos efeitos abaixo. Se usar esta magia várias vezes, pode ter até três efeitos de 1 minuto ativos simultaneamente. Manipular Fogo. Você faz com que as chamas pisquem, iluminem, escureçam ou mudem de cor por 1 minuto. Mão Invisível. Você faz instantaneamente com que uma porta ou janela destrancada se abra ou se feche. Olhos Alterados. Você altera a aparência dos seus olhos por 1 minuto. Som Fantasmagórico. Você cria um som instantâneo que se origina em um ponto à sua escolha no alcance da magia, como um estrondo de trovão, o grito de um corvo ou sussurros sinistros. Voz Retumbante. Sua voz aumenta até três vezes mais do que o normal por 1 minuto. Pela duração da magia, você tem Vantagem em testes de Carisma (Intimidação). Tremores. Você causa tremores inofensivos no chão por 1 minuto.</p>"
+  },
+  "Thorn Whip|XPHB": {
+    "name": "Chicote de Espinhos",
+    "description": "<p>Você cria um chicote semelhante a uma videira coberto de espinhos que ataca ao seu comando em direção a uma criatura no alcance da magia. Realize um ataque mágico corpo a corpo contra o alvo. Em caso de acerto, o alvo sofre [[/damage 1d6 type=piercing]] pontos de dano Perfurante e, se for Grande ou menor, você pode puxá-lo até 3 metros mais perto de você. Aprimoramento de Truque. O dano aumenta em [[/damage 1d6]]  quando você atinge os níveis 5 ([[/damage 2d6]] ), 11 ([[/damage 3d6]] ) e 17 ([[/damage 4d6]] ).</p>"
+  },
+  "Thunderclap|XPHB": {
+    "name": "Trovão",
+    "description": "<p>Cada criatura em uma Emanação de 1,5 metro originada em você deve ser bem-sucedida em uma salvaguarda de Constituição ou sofre [[/damage 1d6 type=thunder]] pontos de dano Trovejante. O som estrondoso da magia pode ser ouvido a até 30 metros de distância. Aprimoramento de Truque. O dano aumenta em [[/damage 1d6]]  quando você atinge os níveis 5 ([[/damage 2d6]] ), 11 ([[/damage 3d6]] ) e 17 ([[/damage 4d6]] ).</p>"
+  },
+  "Toll the Dead|XPHB": {
+    "name": "Badalar Fúnebre",
+    "description": "<p>Você aponta para uma criatura à sua vista e no alcance da magia, então um único toque de um badalar doloroso é audível a até 3 metros do alvo. O alvo deve ser bem-sucedido em uma salvaguarda de Sabedoria ou sofre [[/damage 1d8 type=necrotic]] pontos de dano Necrótico. Caso o alvo tenha perdido algum de seus Pontos de Vida, em vez de 1d8, ele sofre [[/damage 1d12 type=necrotic]] pontos de dano Necrótico. Aprimoramento de Truque. O dano aumenta em [[/damage 1d8]] ou [[/damage 1d12]]  quando você atinge os níveis 5 ([[/damage 2d8]] ou [[/damage 2d12]] ), 11 ([[/damage 3d8]] ou [[/damage 3d12]]) e 17 ([[/damage 4d8]] ou [[/damage 4d12]]).</p>"
+  },
+  "True Strike|XPHB": {
+    "name": "Golpe Certeiro",
+    "description": "<p>Guiado pelo lampejo de uma intuição mágica, você realiza um ataque com a arma usada na conjuração da magia. O ataque usa seu atributo de conjuração para as jogadas de ataque e dano em vez de usar Força ou Destreza. Se o ataque causar dano, ele pode ser Radiante ou do tipo de dano normal da arma (à sua escolha). Aprimoramento de Truque. Seja o dano Radiante ou o tipo de dano normal da arma, o ataque causa dano Radiante adicional quando você atinge os os níveis 5 ([[/damage 1d6]] ), 11 ([[/damage 2d6]] ) e 17 ([[/damage 3d6]] ).</p>"
+  },
+  "Vicious Mockery|XPHB": {
+    "name": "Zombaria Perversa",
+    "description": "<p>Você libera uma série de insultos carregados com encantamentos sutis em uma criatura que pode ouvir você e que esteja à sua vista e no alcance da magia. O alvo deve ser bem-sucedido em uma salvaguarda de Sabedoria ou sofre [[/damage 1d6 type=psychic]] pontos de dano Psíquico e tem Desvantagem na próxima jogada de ataque que realizar antes do final do próximo turno dele. Aprimoramento de Truque. O dano aumenta em [[/damage 1d6]] quando você atinge os níveis 5 ([[/damage 2d6]] ), 11 ([[/damage 3d6]] ) e 17 ([[/damage 4d6]] ).</p>"
+  },
+  "Word of Radiance|XPHB": {
+    "name": "Palavra de Radiância",
+    "description": "<p>Uma radiância ardente irrompe de você em uma Emanação de 1,5 metro. Cada criatura à sua escolha à sua vista nela deve ser bem-sucedida em uma salvaguarda de Constituição ou sofre [[/damage 1d6 type=radiant]] pontos de dano Radiante. Aprimoramento de Truque. O dano aumenta em [[/damage 1d6]] quando você atinge os níveis 5 ([[/damage 2d6]] ), 11 ([[/damage 3d6]] ) e 17 ([[/damage 4d6]] ).</p>"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "Dark Star|EGW": {
+    "name": "Estrela Sombria",
+    "description": "<p>Esta magia cria uma esfera de gravidade destruidora com raio de até 12 metros...</p>"
+  },
+  "Reality Break|EGW": {
+    "name": "Ruptura da Realidade",
+    "description": "<p>Você despedaça o tecido da realidade ao redor de uma criatura...</p>"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "Plutonium-Translator",
+  "title": "Plutonium PT-BR Translator",
+  "description": "Traduz automaticamente a descrição das magias importadas pelo Plutonium para Português do Brasil.",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "12"
+  },
+  "authors": [
+    {
+      "name": "jaovv"
+    }
+  ],
+  "esmodules": [
+    "scripts/main.js"
+  ],
+  "relationships": {
+    "requires": [
+      {
+        "id": "plutonium",
+        "type": "module"
+      }
+    ]
+  }
+}
